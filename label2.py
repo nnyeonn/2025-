@@ -14,4 +14,4 @@ Label(root,
       font="Helvetica 32 bold italic").pack()
 
 
-root.mainloop
+root.mainloop()
